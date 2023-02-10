@@ -1,0 +1,34 @@
+Programas
+
+La suite de Adobe 
+(Illustrator, Photoshop, InDesign, Premiere Pro, After effects)
+-Procreate
+-Toon Boom
+-Maya
+-Ableton
+-Visual Studio Code
+
+Juegos
+
+-En verdad no muchos, con tener Minecraft (y quizás valorant) tengo suficiente
+-Probablemente le instale uno que otro emulador
+
+Respecto a lo del espacio de memoria te refieres a la RAM?
+
+16GB RAM
+1TB SSD
+
+CPU Intel® de 7.ª generación o más reciente con Quick Sync,
+o bien AMD Ryzen™ serie 3000/Threadripper serie 2000 o CPU más reciente
+
+GPU 2GB to 4GB Nvidia or AMD? Nvidia. if not, amd
+
+30k budget
+
+
+Cambiar la ecuacion de la perdida energetica
+Hacer que no se queden stuck con piedras //Quizas ponerle un limite de tiempo a las exploraciones lo haga
+Poner animaciones
+Quizas subir el rate de mutacion y las plantas por segundo
+
+Hacer el log de toda la info
